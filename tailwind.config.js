@@ -4,6 +4,8 @@ module.exports = {
     extend: {
       colors: {
         brand: "#1e40af",
+        goldss: "#E3CA9D",
+        darkgold: "#947133"
       },
     },
   },
